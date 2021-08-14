@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LookForFood</string>
+    <string name="Today">Today</string>
+    <string name="Tomorrow">tomorrow</string>
+    <string name="Week">week</string>
+</resources>
